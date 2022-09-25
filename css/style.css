@@ -4,6 +4,7 @@ body
   overflow-x: hidden;
 }
 
+/* divs */
 .container
 {
   display: flex;
@@ -25,6 +26,7 @@ body
   border-radius: 5%; /*fix later - why is the image not adjusting to the border radius*/
 }
 
+/* links */
 a:hover .card /* by adding .card this made the card have a hover effect */
 {
   cursor: pointer;
@@ -36,6 +38,7 @@ a
   text-decoration: none;
 }
 
+/* body contents */
 h1
 {
   text-align: center;
@@ -82,7 +85,7 @@ button
 }
 
 
-/*
+/* **left out for test only**
 .image 
 {
   margin-bottom: 15px;
