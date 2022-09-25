@@ -3,7 +3,7 @@
 
 - author: Myka Peligrino
 
-- Git Hub pages: 
+- Git Hub pages: https://myka-p.github.io/cpnt260-a2/
 
 ## Above and Beyond
 - I used the `figure` and `figcaption` elements.
